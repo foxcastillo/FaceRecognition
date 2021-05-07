@@ -1,3 +1,5 @@
+// Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+
 import face_recognition as fr
 import os
 import cv2
